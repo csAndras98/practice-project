@@ -1,0 +1,15 @@
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\bin\Debug\PetProject.exe.config
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\bin\Debug\PetProject.exe
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\bin\Debug\PetProject.pdb
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject.csprojAssemblyReference.cache
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\MainWindow.g.cs
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\App.g.cs
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject_MarkupCompile.cache
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject_MarkupCompile.lref
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\MainWindow.baml
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject.g.resources
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject.Properties.Resources.resources
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject.csproj.GenerateResource.cache
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject.csproj.CoreCompileInputs.cache
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject.exe
+C:\Users\tompu\OneDrive\Desktop\PetProject\PetProject\obj\Debug\PetProject.pdb
